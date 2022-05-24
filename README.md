@@ -1,8 +1,8 @@
 ## Olá! Eu sou João Bruno.
 
 
-- 🔭 Interesse em Flutter ou Java
-- 🌱 Estudando Engenharia da Computação e um pouco de tudo
+- 🔭 Interesse em trabalhar com Flutter ou Java
+- 🌱 Buscando sempre amplificar meus conhecimentos
 ##
 <div align="center">
   <a href="https://github.com/jbrun0r">
