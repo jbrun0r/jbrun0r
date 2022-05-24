@@ -13,7 +13,7 @@
 <div>
   </div>
   
-<div align="left"
+<div align="center"
      style="display: inline_block"><br>
   <img align="center" alt="B-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
   <img align="center" alt="B-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
