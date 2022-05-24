@@ -6,8 +6,8 @@
 ##
 <div align="center">
   <a href="https://github.com/jbrun0r">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jbrun0r&border_color=0D1117&border_radius=18&show_icons=true&text_color=C9D1D9&title_color=58A6FF&icon_color=3CB371&bg_color=DEG,1F2938,19212D,141A24,10151D,0D1117&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbrun0r&border_color=0D1117&border_radius=9&layout=compact&langs_count=7&text_color=C9D1D9&title_color=58A6FF&icon_color=3CB371&bg_color=DEG,0D1117,0D1117,10151D,141A24,19212D,1F2938"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jbrun0&border_color=0D1117&border_radius=18&show_icons=true&text_color=C9D1D9&title_color=58A6FF&icon_color=3CB371&bg_color=DEG,1F2938,19212D,141A24,10151D,0D1117&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbrun0&border_color=0D1117&border_radius=9&layout=compact&langs_count=7&text_color=C9D1D9&title_color=58A6FF&icon_color=3CB371&bg_color=DEG,0D1117,0D1117,10151D,141A24,19212D,1F2938"/>
 </div>
   
 <div>
