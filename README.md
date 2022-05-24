@@ -1,4 +1,4 @@
-## Olá! Eu sou João Bruno.
+## Olá, Mundo! Eu sou João Bruno.
 
 
  🔭 Interesse em trabalhar com Flutter ou Java
