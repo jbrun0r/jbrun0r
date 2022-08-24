@@ -1,6 +1,5 @@
 ## Olá, Mundo! Eu sou João Bruno.
 
- 🔭 Interesse em trabalhar com Flutter ou Java
  🌱 Buscando sempre amplificar meus conhecimentos
 ## 
 <div align="center">
