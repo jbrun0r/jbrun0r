@@ -47,4 +47,5 @@
 ##
 <!--
   ![Snake animation](https://github.com/jbrun0r/jbrun0r/blob/output/github-contribution-grid-snake.svg)
+  
 -->
