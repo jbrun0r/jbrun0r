@@ -23,7 +23,11 @@
   <img align="left" alt="B-vs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="left" alt="B-AS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
   <img align="left" alt="B-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">  
-  <p>
+  
+  <div id="p">
+    <h1> </h1>
+ 
+  </div>
   <a href = "mailto:joaobruno.rf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joaobrunodev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://portfolio-joaobruno.firebaseapp.com/#/" target="_blank"><img src="https://i.imgur.com/jCrun17.png"_blank"></a> 
