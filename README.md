@@ -25,7 +25,7 @@
   <img align="left" alt="B-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">  
   
   <div id="p">
-    <h1> </h1>
+    <h1> . </h1>
  
   </div>
   <a href = "mailto:joaobruno.rf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
