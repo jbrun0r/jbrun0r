@@ -34,6 +34,5 @@
   <a href="https://portfolio-joaobruno.firebaseapp.com/#/" target="_blank"><img src="https://i.imgur.com/jCrun17.png"_blank"></a> 
 </div>
 
-
   ![Snake animation](https://github.com/jbrun0r/jbrun0r/blob/output/github-contribution-grid-snake.svg)
 
