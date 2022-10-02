@@ -1,5 +1,4 @@
 #### Olá, Mundo! Eu sou João Bruno.
-
  🌱 Buscando sempre amplificar meus conhecimentos
 
 <div align="center">
