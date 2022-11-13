@@ -30,8 +30,9 @@
     <h3> &nbsp; </h3>
   <a href = "joaobruno.rf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joaobrunodev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://portfolio-joaobruno.firebaseapp.com/#/" target="_blank"><img src="https://i.imgur.com/jCrun17.png"_blank"></a> 
+  <img align="left" alt="B-Linux" height="27" src="https://github.com/jbrun0r/jbrun0r/blob/imagens/portf%C3%B3lio.png" target="_blank"></a> 
 </div>
 
+ 
   ![Snake animation](https://github.com/jbrun0r/jbrun0r/blob/output/github-contribution-grid-snake.svg)
 
