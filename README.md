@@ -30,7 +30,7 @@
     <h3> &nbsp; </h3>
   <a href = "joaobruno.rf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joaobrunodev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://portfolio-joaobruno.firebaseapp.com/#/" target="_blank"><img src="https://raw.githubusercontent.com/jbrun0r/jbrun0r/5d9ffb5abe4f58392f54c363234a1c50ad9d20da/Design%20sem%20nome.svg" width="100" target="_blank"></a> 
+  <a href="https://portfolio-joaobruno.firebaseapp.com/#/" target="_blank"><img src="https://raw.githubusercontent.com/jbrun0r/jbrun0r/6ba5de3908a7f9ea3d6ae5c3ab7eb5274a5c9e0f/portf%C3%B3lio.svg" width="100" target="_blank"></a> 
 </div>
 
  
