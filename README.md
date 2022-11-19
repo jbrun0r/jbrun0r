@@ -9,7 +9,7 @@
  
   <a href="joaobruno.rf@gmail.com"><img src="https://raw.githubusercontent.com/jbrun0r/jbrun0r/c6009da1e3d84158e0f750ad78c473591de487ad/Gmail.svg" height ="40em" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joaobrunodev/" target="_blank"><img src="https://raw.githubusercontent.com/jbrun0r/jbrun0r/9ef0c31ed3b65f93e4cbda251ba0c309eb91872d/Linkedin.svg" height="40em" target="_blank"></a>
-  <a href="https://portfolio-joaobruno.firebaseapp.com/#/" target="_blank"><img src="https://raw.githubusercontent.com/jbrun0r/jbrun0r/173cb2ce66a3d25d315bb9c3feb724584190bdad/Portfolio_Icon_github.svg" height="40em" target="_blank"></a> 
+  <a href="https://portfolio-joaobruno.firebaseapp.com/#/" target="_blank"><img src="https://raw.githubusercontent.com/jbrun0r/jbrun0r/56dea0c4caa3d58084df1a5827fc279503e56cb5/Portfolio_Icon_sem.svg" height="40em" target="_blank"></a> 
 </div>
 
   ![Snake animation](https://github.com/jbrun0r/jbrun0r/blob/output/github-contribution-grid-snake.svg)
