@@ -11,6 +11,8 @@
   <a href="https://www.linkedin.com/in/joaobrunodev/" target="_blank"><img src="https://raw.githubusercontent.com/jbrun0r/jbrun0r/7dacf3939ea559005194548d71ee6caed9cc3d3b/Linkedin_sem_azul.svg" height="40em" target="_blank"></a>
   <a href="https://portfolio-joaobruno.firebaseapp.com/#/" target="_blank"><img src="https://raw.githubusercontent.com/jbrun0r/jbrun0r/56dea0c4caa3d58084df1a5827fc279503e56cb5/Portfolio_Icon_sem.svg" height="40em" target="_blank"></a> 
 </div>
-
+ 
+  <img src="https://github.com/jbrun0r/jbrun0r/blob/imagens/cat-giphy.gif" width="300px"/>
+ 
   ![Snake animation](https://github.com/jbrun0r/jbrun0r/blob/output/github-contribution-grid-snake.svg)
 
