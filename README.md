@@ -12,7 +12,12 @@
   <a href="https://portfolio-joaobruno.firebaseapp.com/#/" target="_blank"><img src="https://raw.githubusercontent.com/jbrun0r/jbrun0r/56dea0c4caa3d58084df1a5827fc279503e56cb5/Portfolio_Icon_sem.svg" height="40em" target="_blank"></a> 
 </div>
  
-  <img src="https://github.com/jbrun0r/jbrun0r/blob/imagens/cat-giphy.gif" width="100"/>
+ ### [![My Skills](https://skillicons.dev/icons?i=python,flask,java,eclipse,mysql,postgres&perline=3)](https://skillicons.dev)
+ 
+ ### [![My Skills](https://skillicons.dev/icons?i=flutter,firebase,vue,typescript,css,tailwind&perline=3)](https://skillicons.dev)
+ ### [![My Skills](https://skillicons.dev/icons?i=aws,docker,azure&perline=3)](https://skillicons.dev)
+ 
+<!--   <img src="https://github.com/jbrun0r/jbrun0r/blob/imagens/cat-giphy.gif" width="100"/> -->
  
   ![Snake animation](https://github.com/jbrun0r/jbrun0r/blob/output/github-contribution-grid-snake.svg)
 
